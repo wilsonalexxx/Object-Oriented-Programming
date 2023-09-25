@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "C:\\Users\\diasp\\.gradle\\daemon\\7.4\\com.example.ajaibmusicstudio.app-mergeDebugResources-40:\\layout\\activity_login_selection.xml",
+        "source": "C:\\Users\\diasp\\.gradle\\daemon\\7.4\\com.example.ajaibmusicstudio.app-main-43:\\layout\\activity_login_selection.xml"
+    },
+    {
+        "merged": "C:\\Users\\diasp\\.gradle\\daemon\\7.4\\com.example.ajaibmusicstudio.app-mergeDebugResources-40:\\layout\\activity_main_admin.xml",
+        "source": "C:\\Users\\diasp\\.gradle\\daemon\\7.4\\com.example.ajaibmusicstudio.app-main-43:\\layout\\activity_main_admin.xml"
+    },
+    {
+        "merged": "C:\\Users\\diasp\\.gradle\\daemon\\7.4\\com.example.ajaibmusicstudio.app-mergeDebugResources-40:\\layout\\activity_customer_login_page.xml",
+        "source": "C:\\Users\\diasp\\.gradle\\daemon\\7.4\\com.example.ajaibmusicstudio.app-main-43:\\layout\\activity_customer_login_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\diasp\\.gradle\\daemon\\7.4\\com.example.ajaibmusicstudio.app-mergeDebugResources-40:\\layout\\activity_vip_room_list.xml",
+        "source": "C:\\Users\\diasp\\.gradle\\daemon\\7.4\\com.example.ajaibmusicstudio.app-main-43:\\layout\\activity_vip_room_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\diasp\\.gradle\\daemon\\7.4\\com.example.ajaibmusicstudio.app-mergeDebugResources-40:\\layout\\activity_main_customer.xml",
+        "source": "C:\\Users\\diasp\\.gradle\\daemon\\7.4\\com.example.ajaibmusicstudio.app-main-43:\\layout\\activity_main_customer.xml"
+    },
+    {
+        "merged": "com.example.ajaibmusicstudio.app-mergeDebugResources-40:/layout/activity_booking_room_customer.xml",
+        "source": "com.example.ajaibmusicstudio.app-main-43:/layout/activity_booking_room_customer.xml"
+    },
+    {
+        "merged": "C:\\Users\\diasp\\.gradle\\daemon\\7.4\\com.example.ajaibmusicstudio.app-mergeDebugResources-40:\\layout\\activity_admin_login_page.xml",
+        "source": "C:\\Users\\diasp\\.gradle\\daemon\\7.4\\com.example.ajaibmusicstudio.app-main-43:\\layout\\activity_admin_login_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\diasp\\.gradle\\daemon\\7.4\\com.example.ajaibmusicstudio.app-mergeDebugResources-40:\\layout\\activity_regular_room_list.xml",
+        "source": "C:\\Users\\diasp\\.gradle\\daemon\\7.4\\com.example.ajaibmusicstudio.app-main-43:\\layout\\activity_regular_room_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\diasp\\.gradle\\daemon\\7.4\\com.example.ajaibmusicstudio.app-mergeDebugResources-40:\\layout\\activity_register_page.xml",
+        "source": "C:\\Users\\diasp\\.gradle\\daemon\\7.4\\com.example.ajaibmusicstudio.app-main-43:\\layout\\activity_register_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\diasp\\.gradle\\daemon\\7.4\\com.example.ajaibmusicstudio.app-mergeDebugResources-40:\\layout\\activity_register_succes_page.xml",
+        "source": "C:\\Users\\diasp\\.gradle\\daemon\\7.4\\com.example.ajaibmusicstudio.app-main-43:\\layout\\activity_register_succes_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\diasp\\.gradle\\daemon\\7.4\\com.example.ajaibmusicstudio.app-mergeDebugResources-40:\\layout\\activity_selection_room_type.xml",
+        "source": "C:\\Users\\diasp\\.gradle\\daemon\\7.4\\com.example.ajaibmusicstudio.app-main-43:\\layout\\activity_selection_room_type.xml"
+    },
+    {
+        "merged": "C:\\Users\\diasp\\.gradle\\daemon\\7.4\\com.example.ajaibmusicstudio.app-mergeDebugResources-40:\\layout\\activity_booking_room_customer.xml",
+        "source": "C:\\Users\\diasp\\.gradle\\daemon\\7.4\\com.example.ajaibmusicstudio.app-main-43:\\layout\\activity_booking_room_customer.xml"
+    },
+    {
+        "merged": "C:\\Users\\diasp\\.gradle\\daemon\\7.4\\com.example.ajaibmusicstudio.app-mergeDebugResources-40:\\layout\\recyclevieweerregularroom.xml",
+        "source": "C:\\Users\\diasp\\.gradle\\daemon\\7.4\\com.example.ajaibmusicstudio.app-main-43:\\layout\\recyclevieweerregularroom.xml"
+    },
+    {
+        "merged": "C:\\Users\\diasp\\.gradle\\daemon\\7.4\\com.example.ajaibmusicstudio.app-mergeDebugResources-40:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\diasp\\.gradle\\daemon\\7.4\\com.example.ajaibmusicstudio.app-main-43:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\diasp\\.gradle\\daemon\\7.4\\com.example.ajaibmusicstudio.app-mergeDebugResources-40:\\layout\\reyclevieweerviproom.xml",
+        "source": "C:\\Users\\diasp\\.gradle\\daemon\\7.4\\com.example.ajaibmusicstudio.app-main-43:\\layout\\reyclevieweerviproom.xml"
+    }
+]
